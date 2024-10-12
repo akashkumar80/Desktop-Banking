@@ -56,7 +56,7 @@ Below are some Screenshots of the project
 ![Transaction](https://github.com/akashkumar80/Desktop-Banking/blob/main/Output_Desktop_Banking/Banking%20System%2012-10-2024%2014_48_48.png?raw=true)
 
 ### Deposit
-[!Deposit](https://github.com/akashkumar80/Desktop-Banking/blob/main/Output_Desktop_Banking/Banking%20System%2012-10-2024%2014_48_53.png?raw=true)
+![Deposit](https://github.com/akashkumar80/Desktop-Banking/blob/main/Output_Desktop_Banking/Banking%20System%2012-10-2024%2014_48_53.png?raw=true)
 
 ### Withdraw
 ![Withdraw](https://github.com/akashkumar80/Desktop-Banking/blob/main/Output_Desktop_Banking/Banking%20System%2012-10-2024%2014_48_57.png?raw=true)
