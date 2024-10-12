@@ -61,4 +61,7 @@ Below are some Screenshots of the project
 ### Withdraw
 ![Withdraw](https://github.com/akashkumar80/Desktop-Banking/blob/main/Output_Desktop_Banking/Banking%20System%2012-10-2024%2014_48_57.png?raw=true)
 
+## Create Databse table
+An SQL File is given in Desktop Banking folder use that file to create a new database and tables.
+
 
