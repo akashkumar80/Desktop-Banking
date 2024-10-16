@@ -15,7 +15,7 @@ This is a JavaFX and JDBC based banking system application that provides an inte
   <li>View account balance.</li>
   <li>View recent transaction history</li>
   <li>Transfer money between accounts</li>
-  <li>Simulate deposits and withdrawals of funds.<li>
+  <li>Simulate deposits and withdrawals of funds.</li>
   <li>Show past transactions (date, amount, description).</li>
 </ul>
 
