@@ -9,13 +9,16 @@ This is a JavaFX and JDBC based banking system application that provides an inte
 - Functional borders and padding around UI elements for enhanced usability.
 
 ## Basic Functionality
--User sign-up with personal details.
--Login with secure password
--View account balance.
--View recent transaction history
--Transfer money between accounts
--Simulate deposits and withdrawals of funds.
--Show past transactions (date, amount, description).
+<ul>
+  <li>User sign-up with personal details.</li>
+  <li>Login with secure password</li>
+  <li>View account balance.</li>
+  <li>View recent transaction history</li>
+  <li>Transfer money between accounts</li>
+  <li>Simulate deposits and withdrawals of funds.<li>
+  <li>Show past transactions (date, amount, description).</li>
+</ul>
+
 
 ## Installation
 
